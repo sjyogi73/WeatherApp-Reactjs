@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
-This project is Developed for Twitter-Auth ( Login Page ) with Firebase
+This project is Developed for Get Live Weather data From Open API
 
-Developed With RREACTBOOTSTRAP  + REACTJS 
+Developed With  REACTJS & Axios & Hooks
         
        
        This Project Only For developing my Skill
